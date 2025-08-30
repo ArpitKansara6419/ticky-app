@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685125736183",
+    "project_id": "ticky-app-1a348",
+    "storage_bucket": "ticky-app-1a348.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685125736183:android:90f8d5a4383606cb23e5f2",
+        "android_client_info": {
+          "package_name": "com.aimbot.ticky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVRBs1zA0hLnuyocXv7vhkPV85g90ph-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
