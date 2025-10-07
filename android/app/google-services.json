@@ -1,26 +1,59 @@
 {
   "project_info": {
-    "project_number": "685125736183",
-    "project_id": "ticky-app-1a348",
-    "storage_bucket": "ticky-app-1a348.firebasestorage.app"
+    "project_number": "245962380359",
+    "project_id": "ticky-app-b7897",
+    "storage_bucket": "ticky-app-b7897.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:685125736183:android:90f8d5a4383606cb23e5f2",
+        "mobilesdk_app_id": "1:245962380359:android:23623bcc4dad87b363cd62",
         "android_client_info": {
           "package_name": "com.aimbot.ticky"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "245962380359-7j8jg1o7fqdj71t166st5o8u86ni4ab6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aimbot.ticky",
+            "certificate_hash": "2787f493e7cded276f807153e607325667ab8d24"
+          }
+        },
+        {
+          "client_id": "245962380359-q2qgs5q0ou09d8flvrev2765ohijui5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aimbot.ticky",
+            "certificate_hash": "3150e7de73568460a0a0277996b2fa01bbe74074"
+          }
+        },
+        {
+          "client_id": "245962380359-64f7ki3vv2uaatgllv10sq30l0kffmst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAVRBs1zA0hLnuyocXv7vhkPV85g90ph-M"
+          "current_key": "AIzaSyDWuHI_l_ipyzstt_-va83sjK45MhRD31Y"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245962380359-64f7ki3vv2uaatgllv10sq30l0kffmst.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245962380359-grvtrvmkrauvcsinah4dj980ho58tm7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aimbot.ticky"
+              }
+            }
+          ]
         }
       }
     }
